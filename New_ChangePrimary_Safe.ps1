@@ -40,7 +40,7 @@ Accept = 'text/html, application/json'
 }
 
  
- 
+ #App Registration Permissions should include the following: DeviceManagementManagedDevices.ReadWrite.All (Application) and User.ReadAll (Application)
 
  
 
